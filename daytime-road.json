@@ -1,0 +1,18 @@
+# daytime-road.json (roll20 rollable table) (Requires RecursiveTables API script)
+{
+    "name": "daytime-road",
+    "showplayers": true,
+    "id": "-MzhlppqTnaFDzX9Yf03",
+    "items": {
+        "-MzhmK8mPUzgmtDTCC0H": {
+            "id": "-MzhmK8mPUzgmtDTCC0H",
+            "name": "nothing",
+            "weight": 17
+        },
+        "-MzhmfpxGyff3pz4vW8E": {
+            "id": "-MzhmfpxGyff3pz4vW8E",
+            "name": "[[1t[daytime-encounters]]]",
+            "weight": 3
+        }
+    }
+}

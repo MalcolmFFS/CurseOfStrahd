@@ -1,0 +1,18 @@
+# nighttime-road.json (roll20 rollable table) (Requires RecursiveTables API script)
+{
+    "name": "nighttime-road",
+    "showplayers": true,
+    "id": "-MzhqFMhEHn3CGXA4Gcd",
+    "items": {
+        "-MzhqGqlFo5GmMsK59RA": {
+            "id": "-MzhqGqlFo5GmMsK59RA",
+            "name": "nothing",
+            "weight": 17
+        },
+        "-MzhqQ4NH_qVXTNGZEvT": {
+            "id": "-MzhqQ4NH_qVXTNGZEvT",
+            "name": "[[1t[nighttime-encounters]]]",
+            "weight": 3
+        }
+    }
+}

@@ -1,0 +1,18 @@
+# nighttime-wilderness.json (roll20 rollable table) (Requires RecursiveTables API script)
+{
+    "name": "nighttime-wilderness",
+    "showplayers": true,
+    "id": "-MzhqTVS2LyeJN7zs68i",
+    "items": {
+        "-MzhqVOwcPsCg1KsKf1Y": {
+            "id": "-MzhqVOwcPsCg1KsKf1Y",
+            "name": "nothing",
+            "weight": 14
+        },
+        "-MzhqWVsDnYFzazvgrwK": {
+            "id": "-MzhqWVsDnYFzazvgrwK",
+            "name": "[[1t[nighttime-encounters]]]",
+            "weight": 6
+        }
+    }
+}

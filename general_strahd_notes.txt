@@ -1,0 +1,16 @@
+Roll20: Curse of Strahd Notes
+
+# Barovia travel times chart:
+![Image Map](https://i.imgur.com/2iSuaoD.png)
+
+# EncounterDaytimeRoad (Requires RecursiveTables API script):
+!rt /w gm You encounter [[ 1t[daytime-road] ]].
+
+# EncounterNighttimeRoad (Requires RecursiveTables API script):
+!rt /w gm You encounter [[ 1t[nighttime-road] ]].
+
+# EncounterDaytimeWilderness (Requires RecursiveTables API script):
+!rt /w gm You encounter [[ 1t[daytime-wilderness] ]].
+
+# EncounterNighttimeWilderness (Requires RecursiveTables API script):
+!rt /w gm You encounter [[ 1t[nighttime-wilderness] ]].

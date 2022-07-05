@@ -1,0 +1,101 @@
+# daytime-encounters.json (roll20 rollable table) (Requires RecursiveTables API script)
+{
+    "name": "daytime-encounters",
+    "showplayers": true,
+    "id": "-Mzhpcws3h61gbfPmXsg",
+    "items": {
+        "-MzhpihohBz3DiWjzHoj": {
+            "id": "-MzhpihohBz3DiWjzHoj",
+            "name": "[[ 3d6 ]] Barovian commoners"
+        },
+        "-Mzhqrgsp9KyqjLoc820": {
+            "id": "-Mzhqrgsp9KyqjLoc820",
+            "name": "[[ 1d6 ]] Barovian scouts",
+            "weight": 2
+        },
+        "-MzhqvgPWG40fhWVdYxG": {
+            "id": "-MzhqvgPWG40fhWVdYxG",
+            "name": "Hunting trap (DC 15 Wisdom (Survival) to notice)",
+            "weight": 3
+        },
+        "-Mzhr9BFz7vJIVaQx_jt": {
+            "id": "-Mzhr9BFz7vJIVaQx_jt",
+            "name": "Grave [[1d4]] (intact if 4, desecrated if below 4)",
+            "weight": 4
+        },
+        "-MzhsM7l37Z5rRGJufLe": {
+            "id": "-MzhsM7l37Z5rRGJufLe",
+            "name": "False trail (leads to hidden spiked pit) (only if traveling)",
+            "weight": 5
+        },
+        "-MzhtgQGXEA1lsezsq2_": {
+            "id": "-MzhtgQGXEA1lsezsq2_",
+            "name": "[[ 1d4 + 1 ]] Vistani bandits",
+            "weight": 6
+        },
+        "-Mzhttr6Tx21xXWNw_Uz": {
+            "id": "-Mzhttr6Tx21xXWNw_Uz",
+            "name": "Skeletal rider",
+            "weight": 7
+        },
+        "-MzhuE19ijN37Ka4LExB": {
+            "id": "-MzhuE19ijN37Ka4LExB",
+            "name": "[[ 1t[Gothic-Trinkets] ]]",
+            "weight": 8
+        },
+        "-MzhuMIH1cTGFpiexvYo": {
+            "id": "-MzhuMIH1cTGFpiexvYo",
+            "name": "Hidden Bundle (only if traveling)",
+            "weight": 8
+        },
+        "-MzhuZBqb_plVUHMZY3V": {
+            "id": "-MzhuZBqb_plVUHMZY3V",
+            "name": "[[ 1d2 ]]; [[ 1d4 ]] swarms of ravens (if 1) OR 1 wereraven in raven form (if 2)",
+            "weight": 8
+        },
+        "-Mzhul_YdgzsoUgcihtN": {
+            "id": "-Mzhul_YdgzsoUgcihtN",
+            "name": "[[ 1d6 ]] dire wolves",
+            "weight": 8
+        },
+        "-Mzhuolnf04w5IoJu7M7": {
+            "id": "-Mzhuolnf04w5IoJu7M7",
+            "name": "[[ 3d6 ]] wolves",
+            "weight": 8
+        },
+        "-MzhuvG35I8LgRKRDnKe": {
+            "id": "-MzhuvG35I8LgRKRDnKe",
+            "name": "[[ 1d4 ]] berserkers",
+            "weight": 7
+        },
+        "-MzhuyRn2C5Wj-FkANYn": {
+            "id": "-MzhuyRn2C5Wj-FkANYn",
+            "name": "Corpse [[ 1d6 ]] (1-2: wolf hunted; 3-5: Barovian, if with scouts, person they were searching for; 6: one of player characters)",
+            "weight": 6
+        },
+        "-MzhvRh0f3sACvgnjN66": {
+            "id": "-MzhvRh0f3sACvgnjN66",
+            "name": "[[ 1d6 ]] werewolves in human form",
+            "weight": 5
+        },
+        "-MzhvmlmIcnJUaAuRf31": {
+            "id": "-MzhvmlmIcnJUaAuRf31",
+            "name": "1 druid with [[ 2d6 ]] twig blights",
+            "weight": 4
+        },
+        "-MzhvpknjQ02bBIzkT8o": {
+            "id": "-MzhvpknjQ02bBIzkT8o",
+            "name": "[[ 2d4 ]] needle blights",
+            "weight": 3
+        },
+        "-Mzhvsp2SqZJhxZPU-Bn": {
+            "id": "-Mzhvsp2SqZJhxZPU-Bn",
+            "name": "[[ 1d6 ]] scarecrows",
+            "weight": 2
+        },
+        "-MzhvviOR8s20AlK_9hr": {
+            "id": "-MzhvviOR8s20AlK_9hr",
+            "name": "1 revenant with longsword"
+        }
+    }
+}

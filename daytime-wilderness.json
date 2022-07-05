@@ -1,0 +1,18 @@
+# daytime-wilderness.json (roll20 rollable table) (Requires RecursiveTables API script)
+{
+    "name": "daytime-wilderness",
+    "showplayers": true,
+    "id": "-Mzhq0WSm8FH0UnOpAZn",
+    "items": {
+        "-Mzhq4WkoOtr21qNHx1S": {
+            "id": "-Mzhq4WkoOtr21qNHx1S",
+            "name": "nothing",
+            "weight": 14
+        },
+        "-Mzhq9inWLc_iAKUiWNV": {
+            "id": "-Mzhq9inWLc_iAKUiWNV",
+            "name": "[[1t[daytime-encounters]]]",
+            "weight": 6
+        }
+    }
+}

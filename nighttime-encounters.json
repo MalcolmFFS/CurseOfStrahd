@@ -1,0 +1,101 @@
+# nighttime-encounters.json (roll20 rollable table) (Requires RecursiveTables API script)
+{
+    "name": "nighttime-encounters",
+    "showplayers": true,
+    "id": "-MzhpwPJlI6BZKT3OCBJ",
+    "items": {
+        "-MzhpzRJs77q8RNidiW4": {
+            "id": "-MzhpzRJs77q8RNidiW4",
+            "name": "1 ghost"
+        },
+        "-Mzhw1o_l9bmVPj5RRdp": {
+            "id": "-Mzhw1o_l9bmVPj5RRdp",
+            "name": "Hunting trap (DC 15 Wisdom (Survival) to notice)",
+            "weight": 2
+        },
+        "-Mzhw5JJYWmjc9sLXBoz": {
+            "id": "-Mzhw5JJYWmjc9sLXBoz",
+            "name": "Grave [[1d4]] (intact if 4, desecrated if below 4)",
+            "weight": 3
+        },
+        "-Mzhw8fZOJRdnJBbmfFD": {
+            "id": "-Mzhw8fZOJRdnJBbmfFD",
+            "name": "[[ 1t[Gothic-Trinkets] ]]",
+            "weight": 4
+        },
+        "-MzhwEjF2nRely37f50Z": {
+            "id": "-MzhwEjF2nRely37f50Z",
+            "name": "Corpse [[ 1d6 ]] (1-2: wolf hunted; 3-5: Barovian, if with scouts, person they were searching for; 6: one of player characters)",
+            "weight": 5
+        },
+        "-MzhwHpKSIpdljVqgiyy": {
+            "id": "-MzhwHpKSIpdljVqgiyy",
+            "name": "Hidden Bundle (only if traveling)",
+            "weight": 6
+        },
+        "-MzhwLWNC3XAIdL_o_-s": {
+            "id": "-MzhwLWNC3XAIdL_o_-s",
+            "name": "Skeletal rider",
+            "weight": 7
+        },
+        "-MzhwOkgAzpxj7Rxw5BZ": {
+            "id": "-MzhwOkgAzpxj7Rxw5BZ",
+            "name": "[[ 1d8 ]] swarms of bats",
+            "weight": 8
+        },
+        "-MzhwSzxev8YO_W0-QG1": {
+            "id": "-MzhwSzxev8YO_W0-QG1",
+            "name": "[[ 1d6 ]] dire wolves",
+            "weight": 8
+        },
+        "-MzhwVSHyFs5e32lTN6M": {
+            "id": "-MzhwVSHyFs5e32lTN6M",
+            "name": "[[ 3d6 ]] wolves",
+            "weight": 8
+        },
+        "-Mzhwb0ibxYpCzg9OOhe": {
+            "id": "-Mzhwb0ibxYpCzg9OOhe",
+            "name": "[[ 1d4 ]] berserkers",
+            "weight": 8
+        },
+        "-MzhwdnzUJyJ4Qlww1-s": {
+            "id": "-MzhwdnzUJyJ4Qlww1-s",
+            "name": "1 druid and [[ 2d6 ]] twig blights",
+            "weight": 8
+        },
+        "-MzhwkrR2oPDBmwn9uEr": {
+            "id": "-MzhwkrR2oPDBmwn9uEr",
+            "name": "[[ 2d4 ]] needle blights",
+            "weight": 7
+        },
+        "-MzhwmwWTiQG1ECCOgoA": {
+            "id": "-MzhwmwWTiQG1ECCOgoA",
+            "name": "[[ 1d6 ]] werewolves in wolf form",
+            "weight": 6
+        },
+        "-Mzhwpnal4yfGeGtEqFM": {
+            "id": "-Mzhwpnal4yfGeGtEqFM",
+            "name": "[[ 3d6 ]] zombies",
+            "weight": 5
+        },
+        "-Mzhwtan5_pUPXhtGaFr": {
+            "id": "-Mzhwtan5_pUPXhtGaFr",
+            "name": "[[ 1d6 ]] scarecrows",
+            "weight": 4
+        },
+        "-MzhwxVlfcrdqNKlidsX": {
+            "id": "-MzhwxVlfcrdqNKlidsX",
+            "name": "[[ 1d8 ]] Strahd zombies",
+            "weight": 3
+        },
+        "-Mzhx-S5EWAiWNdAx2Nh": {
+            "id": "-Mzhx-S5EWAiWNdAx2Nh",
+            "name": "1 will-o’-wisp",
+            "weight": 2
+        },
+        "-Mzhx0XeGOkCmLVtcPXK": {
+            "id": "-Mzhx0XeGOkCmLVtcPXK",
+            "name": "1 revenant with longsword"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+Roll20: General Notes
+
+# API Scripts:
+GroupInitiative: Roll initiative for all selected tokens.
+TokenNameNumber: Automatically numbers monsters that have " %%NUMBERED%%" added to their name.
+MonsterHitDice: Roll HP for monsters when placed for varied mob HP's.
+TokenMod: Currently used for quick Torch macros.
+RecursiveTable: Required for recursive table rolls (such as 1d20>18 = [encounter-table]).
+
+# GroupInit macro (Requires GroupInit API script):
+!group-init
+
+# Torch macro - UDL (Requires TokenMod API script):
+!token-mod {{ --on emits_bright_light emits_low_light --set bright_light_distance|20 low_light_distance|20 low_light_opacity|75 }}
+
+# Snuff macro - UDL (Requires TokenMod API script):
+!token-mod {{ --on emits_bright_light emits_low_light --set bright_light_distance|0 low_light_distance|5 low_light_opacity|40 }}
+
+# BlackOut macro - UDL (Requires TokenMod API script):
+!token-mod {{ --on emits_bright_light emits_low_light --set bright_light_distance|0 low_light_distance|0 }}
